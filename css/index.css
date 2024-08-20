@@ -432,13 +432,6 @@ p {
   margin: 0 auto;
 }
 
-.preloader img {
-  animation: spin 3s ease;
-  transition: all;
-  width: 150px;
-  margin: 0 auto;
-}
-
 @keyframes spin {
   0% {
     transform: rotate(0deg);
